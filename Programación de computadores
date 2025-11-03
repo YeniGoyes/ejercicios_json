@@ -1,0 +1,90 @@
+{
+    "elemendozao": {
+        "nombres": "Elymileth de Jesús",
+        "apellidos": "Mendoza Ortega",
+        "edad": 17,
+        "colombiano": true,
+        "deportes": [
+            "ajedréz",
+            "Natación",
+            "Fútbol"
+        ]
+    },
+    "orjuan": {
+        "nombres": "Juan Sebastián",
+        "apellidos": "Ortíz Valencia",
+        "edad": 20,
+        "colombiano": false,
+        "deportes": [
+            "Fútbol",
+            "Ajedréz",
+            "Baloncesto"
+        ]
+    },
+    "jadiazcoronado": {
+        "nombres": "Juan Antonio",
+        "apellidos": "Díaz Coronado",
+        "edad": 24,
+        "colombiano": true,
+        "deportes": [
+            "Fúitbol",
+            "Ajedréz",
+            "Gimnasia"
+        ]
+    },
+    "dmlunasol": {
+        "nombres": "Dorotea Maritza",
+        "apellidos": "Luna Sol",
+        "edad": 30,
+        "colombiano": false,
+        "deportes": [
+            "Baloncesto",
+            "Ajedréz",
+            "Gimnasia"
+        ]
+    },
+    "roserosof": {
+        "nombres": "Sofía María",
+        "apellidos": "Rosero Yela",
+        "edad": 35,
+        "Colombiano": true,
+        "deportes": [
+            "Natación",
+            "Voleibol",
+            "Boxeo"
+        ]
+    },
+    "mordayana": {
+        "nombres": "Andrea Dayana",
+        "apellidos": "Mora Fernández",
+        "edad": 38,
+        "colombiano": false,
+        "deportes": [
+            "Boxeo",
+            "Natación",
+            "Baloncesto"
+        ]
+    },
+    "rodpaula": {
+        "nombres": "María Paula",
+        "apellidos": "Rodiguez Ayala",
+        "edad": 14,
+        "colombiano": true,
+        "deportes": [
+            "Gimnasia",
+            "Boxeo",
+            "Voleibol"
+        ]
+    },
+    "zamalejandro": {
+        "nombres": "Alejandro Santiago",
+        "apellidos": "Ruíz Zambrano",
+        "edad": 44,
+        "colombiano": true,
+        "deportes": [
+            "Voleibol",
+            "Fútbol",
+            "Ajedréz"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "ajedréz": [
+        "elemendozao"
+    ],
+    "Natación": [
+        "elemendozao",
+        "roserosof",
+        "mordayana"
+    ],
+    "Fútbol": [
+        "elemendozao",
+        "orjuan",
+        "zamalejandro"
+    ],
+    "Ajedréz": [
+        "orjuan",
+        "jadiazcoronado",
+        "dmlunasol",
+        "zamalejandro"
+    ],
+    "Baloncesto": [
+        "orjuan",
+        "dmlunasol",
+        "mordayana"
+    ],
+    "Fúitbol": [
+        "jadiazcoronado"
+    ],
+    "Gimnasia": [
+        "jadiazcoronado",
+        "dmlunasol",
+        "rodpaula"
+    ],
+    "Voleibol": [
+        "roserosof",
+        "rodpaula",
+        "zamalejandro"
+    ],
+    "Boxeo": [
+        "roserosof",
+        "mordayana",
+        "rodpaula"
+    ]
+}
